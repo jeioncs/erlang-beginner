@@ -18,5 +18,7 @@ Instalamos Erlide:
 
 http://download.erlide.org/update/
 
-Y configuramos el repositorio en eclipse
+Y configuramos el repositorio en eclipse con https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse
+
+
 
