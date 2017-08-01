@@ -1,7 +1,7 @@
 # erlang-beginner
-Repository whit code to learn erlang
+Repository with code to learn erlang.
 
-Install erlang on ubuntu 16.04:
+Install erlang on Ubuntu 16.04:
 
 $ wget https://packages.erlang-solutions.com/erlang-solutions_1.0_all.deb
 
@@ -19,3 +19,4 @@ Instalamos Erlide:
 http://download.erlide.org/update/
 
 Y configuramos el repositorio en eclipse
+
